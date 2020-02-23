@@ -33,7 +33,7 @@ print(labels1.shape)
 # print(labels1)
 print(data.shape)
 
-# ls: the shuffle of dataset, according to the crossvalidation class in Meka tool
+# ls: the shuffle of dataset, according to the crossvalidation class in Meka tool, get from ShuffleData.java
 ls = [127, 540, 219, 400, 180, 270, 254, 693, 116, 438, 188, 513, 662, 351, 676, 566, 511, 491, 767, 609, 736, 308,
       349, 361, 326, 133, 176, 269, 607, 146, 666, 553, 779, 659, 150, 612, 442, 139, 768, 333, 309, 545, 406, 38,
       200, 430, 177, 528, 2, 339, 717, 484, 527, 660, 674, 640, 691, 103, 58, 277, 186, 396, 119, 5, 342, 30, 114,

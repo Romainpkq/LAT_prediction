@@ -4,7 +4,7 @@ import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
 
 public class ShuffleData{
-
+    // use the shuffle way according to CrossValidation.java in Meka tool
     private int[] data;
 
     public GetData(int capacity){
